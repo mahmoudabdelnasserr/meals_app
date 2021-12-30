@@ -18,7 +18,7 @@ class MainDrawer extends StatelessWidget {
         Container(height: 120, width: double.infinity, padding: EdgeInsets.all(20),
         alignment: Alignment.centerLeft,
         color: Theme.of(context).accentColor,
-        child: Text('Cooking Up', style: TextStyle(
+        child: Text('gainomeal', style: TextStyle(
           fontWeight: FontWeight.w900,
           fontSize: 30,
           color: Theme.of(context).primaryColor
